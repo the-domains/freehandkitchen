@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FreehandKitchen]]></title>
+        <description><![CDATA[FreehandKitchen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Feb 2016 00:46:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sweet & Spicy Chinese Baby Back Ribs]]></title>
+            <description><![CDATA[<article><h1>Sweet & Spicy Chinese Baby Back Ribs</h1><p>Sometimes when I have you over for a meal, I won't plate your food, I'll just bring the whole damn messy butcher's block to you.  That is the ultimate rustic, comfort, family-style way to enjoy a meal in a Freehand Kitchen.  FHKing fun I say!  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74090f72c16f0b507f0b35b1da63343fe0378ddc.jpg"></article>]]></description>
+            <link>undefinedsweet-and-spicy-chinese-baby-back-ribs/index.html</link>
+            <guid isPermaLink="false">cb63bb15-9bc7-455e-9120-f6563e12cef8</guid>
+            <pubDate>Thu, 11 Feb 2016 00:44:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
